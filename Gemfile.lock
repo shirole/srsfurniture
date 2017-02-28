@@ -94,7 +94,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (~> 4.2)
   middleman (~> 4.2)
   tzinfo-data
   wdm (~> 0.1.0)
