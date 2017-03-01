@@ -42,7 +42,7 @@ helpers do
       :"data-item-price" => p.price,
       :"data-item-name" => p.name,
       :"data-item-max-quantity" => p.max_quantity,
-      :"data-item-url" => ENV["base-url"] + p.path,
+      :"data-item-url" => ENV["base-url"] + "/" + p.path,
       :"data-item-image" => p.image
     }
 
