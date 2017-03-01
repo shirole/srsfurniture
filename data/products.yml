@@ -1,7 +1,7 @@
 - name: Barcelona Chair
   id: 102
   price: 5429.00
-  path: products/peanut-butter-cookies
+  path: products/102
   image: https://dl.airtable.com/sy9xsp81QYWBK40KKsyU_blackchair3.png
   description: Ludwig Mies van der Rohe's Barcelona Chair and Stool (1929), originally created to furnish his German Pavilion at the International Exhibition in Barcelona, have come to epitomize modern design.
 
@@ -9,28 +9,28 @@
 - name: Broken Stripe Rug
   id: 103
   price: 2337.50
-  path: products/peanut-butter-cookies
+  path: products/103
   image: https://dl.airtable.com/QYYSop3cSbWwCkv56uzU_rug2.png
   description: How do you create a neutral rug that also has a bit of bling? That was the challenge we posed when designing our Broken Stripe Rug (2010).
 
 - name: Nathan Yong Bookshelf
   id: 104
   price: 3585.00
-  path: products/peanut-butter-cookies
+  path: products/104
   image: https://dl.airtable.com/7Tm8sYscTaW4BXoTi38P_yongbookshelf4.png
   description: How do you create a neutral rug that also has a bit of bling? That was the challenge we posed when designing our Broken Stripe Rug (2010). 
 
 - name: Entu Side Table
   id: 105
   price: 349.00
-  path: products/peanut-butter-cookies
+  path: products/105
   image: https://dl.airtable.com/gDDcTnr2SJeLvIMcVnBF_entu-side-table.jpg
   description: Squared off "S" curve of solid teak in a striking design open to possibilities. Set straight up, it's a geometrically modern side table or night stand with an ample open shelf. 
 
 - name: Verner Panton Light
   id: 106
   price: 1950.00
-  path: products/peanut-butter-cookies
+  path: products/106
   image: https://dl.airtable.com/cDFiqPfIS2WBqpG8UOlS_pantonlight3.png
   description: Most people are familiar with Danish designer Verner Panton for his S-shaped chair and op-art environments, but his Fun Lamps (1964) are equally iconoclastic.
 
@@ -38,7 +38,7 @@
 - name: Cross Extension Table
   id: 107
   price: 4350.00
-  path: products/peanut-butter-cookies
+  path: products/107
   image: https://dl.airtable.com/yLePMpGNQSeRMy6bxmLd_PD_14620_MAIN%3F%24large%24
   description: With spare clean lines and no decorative excess, Matthew Hilton’s Cross Extension Table (2005) pairs the elegance and warmth of classic English furniture with the simple beauty of 21st-century modernism. 
 
@@ -46,7 +46,7 @@
 - name: Kaiser-idell™ Luxus Table Lamp
   id: 108
   price: 864.00
-  path: products/peanut-butter-cookies
+  path: products/108
   image: https://dl.airtable.com/GL9NtRXMSHZgKkbh8T6q_kaiseridell_luxus.jpeg
   description:  Brought back into production by Fritz Hansen in 2011, the collection is crafted to the designer’s original specifications, including his worldwide-patented swivel joint for shade adjustability 
 
@@ -54,7 +54,7 @@
 - name: Soft Dog Pendant
   id: 109
   price: 295.00
-  path: products/peanut-butter-cookies
+  path: products/109
   image: https://dl.airtable.com/AEXt8r7BRMS6GomNlU1L_PD_32449_ALT1%3F%24large%24
   description: Henrik Pedersen began his career as a fashion designer but expanded into graphic design and product development after founding his Denmark-based design studio, known as 365°, in 1996. 
 
@@ -62,7 +62,7 @@
 - name: Visu Chair
   id: 110
   price: 382.25
-  path: products/peanut-butter-cookies
+  path: products/110
   image: https://dl.airtable.com/YcqNBOCtRtC7jTGl5MwQ_PD_29950_MAIN%3F%24large%24
   description: Designer Mika Tolvanen established his Helsinki-based design office in 2001, shortly after graduating with a master’s from the Royal College of Art.
 
@@ -70,7 +70,7 @@
 - name: Kelton Table Lamp
   id: 111
   price: 249.00
-  path: products/peanut-butter-cookies
+  path: products/111
   image: https://dl.airtable.com/3hVjtAWRwOHtQ4akr9vg_cat--kelton-table-lamp.jpg
   description: Turquoise and ombre brown meld in glossy elliptical base, handcrafted of richly glazed ceramic. Linen shade gently tapers with complementary texture and neutral color.
 
@@ -78,7 +78,7 @@
 - name: Byam Rug
   id: 112
   price: 3304.80
-  path: products/peanut-butter-cookies
+  path: products/112
   image: https://dl.airtable.com/EWTseMYaR1mjG2ZNKJTI_PD_24993_MAIN%3F%24large%24
   description: Turquoise and ombre brown meld in glossy elliptical base, handcrafted of richly glazed ceramic. Linen shade gently tapers with complementary texture and neutral color.
 
@@ -86,7 +86,7 @@
 - name: Broken Stripe Rug
   id: 113
   price: 2337.50
-  path: products/peanut-butter-cookies
+  path: products/113
   image: https://dl.airtable.com/c2P0sr3FTl2qQhsH2BAQ_PD_19916_MAIN%3F%24large%24
   description: The inspiration for the Byam Rug (2011) came from "the seemingly effortless play of form and proportion exemplified by the great architecture of Louis Kahn," says British designer Christopher Farr, "particularly in the design of the Kimbell Art Museum in Fort Worth, Texas."
 
@@ -94,7 +94,7 @@
 - name: Sapien Bookcase
   id: 114
   price: 218.00
-  path: products/peanut-butter-cookies
+  path: products/114
   image: https://dl.airtable.com/aPx6slpnSyNfHeTx5UyF_PD_5280_MAIN%3F%24large%24
   description: For more than two decades, Bruno Rainaldi has been influencing the design scene in Milan.
 
@@ -102,7 +102,7 @@
 - name: Grissini Bench
   id: 115
   price: 1575.00
-  path: products/peanut-butter-cookies
+  path: products/115
   image: https://dl.airtable.com/P8MeoOQ0GpyqNgyJioVA_PD_7792_MAIN%3F%24large%24
   description: Turquoise and ombre brown meld in glossy elliptical base, handcrafted of richly glazed ceramic. Linen shade gently tapers with complementary texture and neutral color.
 
@@ -110,7 +110,7 @@
 - name: Eazy Bean Everest Chair
   id: 116
   price: 1300.50
-  path: products/peanut-butter-cookies
+  path: products/116
   image: https://dl.airtable.com/l8ypYBF0THi37uoIE4Rd_PD_21766_MAIN%3F%24large%24
   description: Award-winning architect Giulio Lazzotti, working in the tradition of classic Italian sculptors and craftsmen, creates objects of striking elegance and sophisticated simplicity. 
 
@@ -118,7 +118,7 @@
 - name: Theatre Sofa in Ultrasuede
   id: 117
   price: 3782.50
-  path: products/peanut-butter-cookies
+  path: products/117
   image: https://dl.airtable.com/5DpI8GsQXCIbi2do5N4V_PD_6257_MAIN%3F%24large%24
   description: As a theater and dance student at the University of West Virginia, Ted Boerner developed an intuitive sense of the body and the space it occupies
 
@@ -126,7 +126,7 @@
 - name: Crossover Square Coffee Table
   id: 118
   price: 756.50
-  path: products/peanut-butter-cookies
+  path: products/118
   image: https://dl.airtable.com/Jxh9YrDyRoKHp3Vt7nl8_PD_36412_MAIN%3F%24large%24
   description: Turquoise and ombre brown meld in glossy elliptical base, handcrafted of richly glazed ceramic. Linen shade gently tapers with complementary texture and neutral color.
 
@@ -134,7 +134,7 @@
 - name: Helix Side Table
   id: 119
   price: 1190.00
-  path: products/peanut-butter-cookies
+  path: products/119
   image: https://dl.airtable.com/g1B0c1eTgStIakDoyyOE_PD_31011_MAIN%3F%24large%24
   description: Through years of working as a full-time designer, running a retail store in Canada and acquiring manufacturing knowledge in Europe, Danish designer Niels Bendtsen found a balance between aesthetics, affordability and quality
 
@@ -142,7 +142,7 @@
 - name: Edelman® Leather Zebra Cowhide Rug
   id: 120
   price: 2008.55
-  path: products/peanut-butter-cookies
+  path: products/120
   image: https://dl.airtable.com/AYNQpmnxRr675vDDkq0m_PD_19289_MAIN%3F%24large%24
   description: The Zebra Cowhide Rug adds color, texture and a sense of movement to virtually any room, from traditional to contemporary.
 
@@ -150,7 +150,7 @@
 - name: Palani Kilim Rug
   id: 121
   price: 680.00
-  path: products/peanut-butter-cookies
+  path: products/121
   image: https://dl.airtable.com/Z3OzJTFITjWEgOjasIEg_PD_39167_MAIN%3F%24large%24
   description: Our Palani Kilim Rug (2013) sets a calm mood with its flowing chevron pattern. Handwoven by a skilled artisan on a traditional punja kilim loom using tie-dyed wool yarns and a sumac weave
 
